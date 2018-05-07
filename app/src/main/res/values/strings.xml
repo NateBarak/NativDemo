@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">NativDemo</string>
+
+    <!-- LoginActivity Strings START -->
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_login_button">LOGIN</string>
+    <string name="login_touch_id">Use Touch ID</string>
+    <!-- LoginActivity Strings END -->
+
+</resources>
